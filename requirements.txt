@@ -1,0 +1,8 @@
+functions-framework==3.*
+google-cloud-aiplatform
+google-cloud-documentai
+google-cloud-storage
+google-cloud-documentai-toolbox
+pandas
+vertexai
+gradio
